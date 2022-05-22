@@ -3,7 +3,7 @@
 - 👀 I’m interested in Coding, Creating, Breaking and Fixing things
 - ✨ Former:
 - ☠️ Tattoo Artist
-- 👤 Blackhat @lulzsecurity
+- 👤 Grayhat - Hacktivist
 - 🥋 剛柔流 Sempai
 - ✨ Todays:
 - 💻 CEH/CISM/CISSP/CHFI

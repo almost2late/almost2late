@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @almost2late
 
 - 👀 I’m interested in Coding, Creating, Breaking and Fixing things
+
 - ✨ Former:
 - ☠️ Tattoo Artist
 - 👤 Grayhat - Hacktivist
 - 🥋 剛柔流 Sempai
+
 - ✨ Todays:
 - 💻 CEH/CISM/CISSP/CHFI
 - 👨🏽‍💻 Founder @hydra_security

@@ -9,7 +9,6 @@
 - 💻 CEH/CISM/CISSP/CHFI
 - 👨🏽‍💻 Founder @hydra_security
 - 🪙 ETH/WEB3/Blockchain Technology Enthusiasst
-- tryhackme.com/p/AlmostTooLate
 
 - 📫 To reach me; mail me at: almosttoolate@hydra-security.org
  

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @almost2late
+- 👋 Hi, I’m @almost2cool
 
 - 👀 I’m interested in Coding, Creating, Breaking and Fixing things
 
@@ -11,8 +11,9 @@
 - 💻 CEH/CISM/CISSP/CHFI
 - 👨🏽‍💻 Founder @hydra_security
 - 🪙 ETH/WEB3/Blockchain Technology Enthusiasst
+- 🏋️ Fitness Enthusiast
 
-- 📫 To reach me; mail me at: almosttoolate@hydra-security.org
+- 📫 To reach me; mail me at: almost_too_late@outlook.com
  
 <!---
 almost2late/almost2late is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

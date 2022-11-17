@@ -11,7 +11,7 @@
 - 💻 CEH/CISM/CISSP/CHFI
 - 👨🏽‍💻 Founder @hydra_security
 - 🪙 ETH/WEB3/Blockchain Technology Enthusiasst
-- 🏋️ Fitness Enthusiast
+- 🏋️ Fitness Enthusiasst
 
 - 📫 To reach me; mail me at: almost_too_late@outlook.com
  

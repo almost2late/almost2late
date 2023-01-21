@@ -13,8 +13,8 @@
 - 🪙 ETH/WEB3/Blockchain Technology Enthusiasst
 - 🏋️ Fitness Enthusiasst
 
-- 📫 To reach me; mail me at: almost_too_late@outlook.com
- 
+- 📫 To reach me: mail me at: almost_too_late@outlook.com
+- 💻 For more: almost2late.github.io
 <!---
 almost2late/almost2late is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

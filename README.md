@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Coding, Creating, Breaking and Fixing things and in this Profile you can find My Forks, and Everything else, what I have ever Analyzed, has me Inspired, or was my Motivation.
 
-- ✨ Every Forks deserves a big shoot out, because they helped a lot of to grad my feet in the world of developments.
+- ✨ Every Forks deserves a big shoot out, because they helped a lot of to grab my feet in the world of developments.
 
 - 💻 [My Official Repositories](https://github.com/idrisawad)
 - 💻 [My Online Preferences](https://almost2late.github.io)

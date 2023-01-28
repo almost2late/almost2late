@@ -5,7 +5,7 @@
 - ✨ Every Forks deserves a big shoot out, because they helped a lot of to grab my feet in the world of developments.
 
 - 💻 [My Official Repositories](https://github.com/idrisawad)
-- 💻 [My Online Preferences](https://almost2late.github.io)
+- 💻 [My Online Preferences](https://idrisawad.github.io)
 
 - 📫 [To reach me with any "Fun" Freetime Project Realization](mailto:almost_too_late@outlook.com)
 - 📫 [For Official Inquerrys](mailto:idris-awad@outlook.com)

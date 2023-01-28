@@ -9,7 +9,6 @@
 
 - 📫 [To reach me with any "Fun" Freetime Project Realization](mailto:almost_too_late@outlook.com)
 - 📫 [For Official Inquerrys](mailto:idris-awad@outlook.com)
-- 💻 [My Online Preferences](https://almost2late.github.io)
 <!---
 almost2late/almost2late is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
